@@ -38,3 +38,21 @@
 </table>
 
 </div>
+
+
+
+
+
+
+
+<details>
+<summary>Click to expand</summary>
+
+Hidden content goes here.
+
+You can use **Markdown** inside the section too.
+
+- Item 1
+- Item 2
+
+</details>
